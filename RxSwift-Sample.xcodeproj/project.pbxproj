@@ -17,6 +17,7 @@
 		67BA7A41238280EF00B4251A /* TabDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67BA7A40238280EF00B4251A /* TabDetailViewController.swift */; };
 		67BA7A43238281DD00B4251A /* TabTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67BA7A42238281DD00B4251A /* TabTableViewController.swift */; };
 		67BA7A4523828E8000B4251A /* AnimationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67BA7A4423828E8000B4251A /* AnimationViewController.swift */; };
+		67BA7A472382C5EC00B4251A /* TimerViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 67BA7A462382C5EC00B4251A /* TimerViewController.swift */; };
 		BF5217EB8A82F91C6D2BD52F /* libPods-RxSwift-Sample.a in Frameworks */ = {isa = PBXBuildFile; fileRef = A7A4B46D01DAA058023BAAD6 /* libPods-RxSwift-Sample.a */; };
 /* End PBXBuildFile section */
 
@@ -33,6 +34,7 @@
 		67BA7A40238280EF00B4251A /* TabDetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabDetailViewController.swift; sourceTree = "<group>"; };
 		67BA7A42238281DD00B4251A /* TabTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TabTableViewController.swift; sourceTree = "<group>"; };
 		67BA7A4423828E8000B4251A /* AnimationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimationViewController.swift; sourceTree = "<group>"; };
+		67BA7A462382C5EC00B4251A /* TimerViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimerViewController.swift; sourceTree = "<group>"; };
 		73B0E942498471281DBB8144 /* Pods-RxSwift-Sample.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwift-Sample.debug.xcconfig"; path = "Target Support Files/Pods-RxSwift-Sample/Pods-RxSwift-Sample.debug.xcconfig"; sourceTree = "<group>"; };
 		8C8F5A897DB9B0E537675056 /* Pods-RxSwift-Sample.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RxSwift-Sample.release.xcconfig"; path = "Target Support Files/Pods-RxSwift-Sample/Pods-RxSwift-Sample.release.xcconfig"; sourceTree = "<group>"; };
 		A7A4B46D01DAA058023BAAD6 /* libPods-RxSwift-Sample.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-RxSwift-Sample.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -90,6 +92,7 @@
 				67BA7A40238280EF00B4251A /* TabDetailViewController.swift */,
 				67BA7A42238281DD00B4251A /* TabTableViewController.swift */,
 				67BA7A4423828E8000B4251A /* AnimationViewController.swift */,
+				67BA7A462382C5EC00B4251A /* TimerViewController.swift */,
 			);
 			path = "RxSwift-Sample";
 			sourceTree = "<group>";
@@ -204,6 +207,7 @@
 				67BA7A43238281DD00B4251A /* TabTableViewController.swift in Sources */,
 				67BA7A4523828E8000B4251A /* AnimationViewController.swift in Sources */,
 				67BA7A3F237EEEA600B4251A /* Package.swift in Sources */,
+				67BA7A472382C5EC00B4251A /* TimerViewController.swift in Sources */,
 				67BA7A2F237EEE0C00B4251A /* ViewController.swift in Sources */,
 				67BA7A2B237EEE0C00B4251A /* AppDelegate.swift in Sources */,
 				67BA7A2D237EEE0C00B4251A /* SceneDelegate.swift in Sources */,
